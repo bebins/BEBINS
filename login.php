@@ -95,7 +95,7 @@ if (isset($_POST['submit'])) {
                 <option value="Karungal">Karungal</option>
                 <option value="Puthukadai">Puthukadai</option>
                 <option value="Oliver">Oliver</option>
-                <option value="Triumph Motors">Triumph Motors</option>
+                <option value="Triumph Motors">Triumph Motor</option>
                 <option value="MM Motors">MM Motors</option>
                 <option value="RTO">RTO</option>
                 <option value="Admin">Admin</option>
